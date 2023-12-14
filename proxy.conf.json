@@ -1,0 +1,6 @@
+{
+    "/api/tasks": {
+        "target": "http://localhost:3000/tasks",
+        "secure": false
+    }
+}

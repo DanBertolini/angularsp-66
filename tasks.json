@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Comprar Ovos",
+      "dueDate": "1702166400000",
+      "status": "TODO"
+    },
+    {
+        "title": "Escrever um artigo",
+        "dueDate": "1701399600000",
+        "status": "DOING"
+    },
+    {
+        "title": "Montar Palestra Angular SP",
+        "dueDate": "1700092800000",
+        "status": "DONE"
+    },
+    {
+        "title": "Ir no mercado",
+        "dueDate": "1702165600000",
+        "status": "TODO"
+    },
+    {
+        "title": "Estudar JavaScript",
+        "dueDate": "1701199600000",
+        "status": "DOING"
+    },
+    {
+        "title": "Levar o lixo para fora",
+        "dueDate": "1700097800000",
+        "status": "DONE"
+    }
+  ]
+}
